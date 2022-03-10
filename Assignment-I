@@ -104,7 +104,7 @@ Directions: feed Gorillas in the morning as group, spread forage items during no
                  ).
       Step V: Make first commit with only staged content.
               (Executing GIT COMMIT -m "<<msg>>" will save the staged content only).
-      Step VI: Stage meal-regimens.txt again.
+      Step VI: Stage meal-regimengs.txt again.
               (git diff --cached HEAD => verify if it shows 5.West Lowland Gorilla .... )
       Step VII: Make commit again.
                 
